@@ -1,4 +1,4 @@
-# 👋 Welcome to Codefest International · GWR Hackathon 2025
+# 👋 Welcome to Codefest Africa · GWR Hackathon 2025
 
 🚀 **Build for Nigeria**  
 🌍 Guinness World Record Attempt Hackathon  
